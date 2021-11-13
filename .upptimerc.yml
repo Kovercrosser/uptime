@@ -24,7 +24,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/17257929 #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "**Kovercrosser** This page shows the uptime of my Websites"
-  introMessage: [**Get your own Uptime Monitor for free**](https://github.com/upptime/upptime)
+  introMessage: "This Website checks regulary if my sites are up and running!"
   navbar:
     - title: Status
       href: /
