@@ -13,10 +13,6 @@ sites:
     url: https://weeks.dasbuero2019.de
   - name: Matchstats
     url: https://matchstats.dasbuero2019.de
-  - name: Rise of Dharr
-    url: https://riseofdharr.de
-  - name: testing
-    url: https://thissitedoesnotexisjsdbfkjewbt.koj.co
 
 
 status-website:
