@@ -28,7 +28,7 @@ status-website:
   favicon: https://avatars.githubusercontent.com/u/17257929?s=40
   navbar:
     - title: Status
-      href: /
+      href: /#
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
