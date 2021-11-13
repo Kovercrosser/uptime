@@ -21,10 +21,13 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /uptime
-  logoUrl: https://avatars.githubusercontent.com/u/17257929 #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/17257929?s=100 #https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "**Kovercrosser** This page shows the uptime of my Websites"
   introMessage: "This Website checks regulary if my sites are up and running!"
+  status-website:
+  theme: night
+  favicon: https://avatars.githubusercontent.com/u/17257929?s=40
   navbar:
     - title: Status
       href: /
