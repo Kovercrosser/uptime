@@ -40,19 +40,19 @@
     "url": "https://cloud.dasbuero2019.de/",
     "icon": "https://favicons.githubusercontent.com/cloud.dasbuero2019.de",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 757,
-    "timeDay": 1397,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 752,
+    "timeDay": 1047,
+    "timeWeek": 752,
+    "timeMonth": 752,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2021-11-19": 10
+      "2021-11-19": 58
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://weeks.dasbuero2019.de",
     "icon": "https://favicons.githubusercontent.com/weeks.dasbuero2019.de",
     "slug": "weeks",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 741,
-    "timeDay": 766,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 729,
+    "timeDay": 680,
+    "timeWeek": 729,
+    "timeMonth": 729,
+    "timeYear": 729,
     "dailyMinutesDown": {
-      "2021-11-19": 9
+      "2021-11-19": 57
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://matchstats.dasbuero2019.de",
     "icon": "https://favicons.githubusercontent.com/matchstats.dasbuero2019.de",
     "slug": "matchstats",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 906,
-    "timeDay": 832,
-    "timeWeek": 906,
-    "timeMonth": 906,
-    "timeYear": 906,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 907,
+    "timeDay": 879,
+    "timeWeek": 907,
+    "timeMonth": 907,
+    "timeYear": 907,
     "dailyMinutesDown": {
-      "2021-11-19": 9
+      "2021-11-19": 57
     }
   }
 ]
