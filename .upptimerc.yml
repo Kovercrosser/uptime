@@ -13,6 +13,8 @@ sites:
     url: https://weeks.kovercrosser.de
   - name: Matchstats
     url: https://matchstats.dasbuero2019.de
+  - name: Duenger
+    url: https://duenger.rw-sa.de
 
 
 status-website:
